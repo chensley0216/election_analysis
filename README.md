@@ -26,4 +26,4 @@ The winning candidate was Diana DeGette with a total of 272,892 votes, making th
 
 Election Audit Summary:
 
-While the d
+While the data only pertained to select counties, the script used for this particular event can be expanded to handle other types of elections-related data.  By modifying the code, this could determine winners in elections for entire states, and compare several counties at once.  This could also be taken to a nationwide level by selecting winners based on statewide data.  
